@@ -42,6 +42,8 @@ navigation:
     url: https://terminus2021.github.io/overwall 
   - name: 备份
     url: https://terminus2021.github.io/wayback
+  - name: 三窟
+    url: https://hanmoyuanyi.github.io
 # Pagination
 paginate: 20
 
