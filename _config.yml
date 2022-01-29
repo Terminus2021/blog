@@ -26,7 +26,7 @@ navigation:
     url: /tags.html
   - name: 抱团
     url: /categories.html
-  - name: 订阅号
+  - name: 订阅
     url: /atom.xml
   - name: 绍介
     url: /about.html
