@@ -36,10 +36,12 @@ navigation:
     url: /diary.html
   - name: 微小贡献
     url: /projects.html
-  - name: Blogspot
+  - name: BS
     url: https://qiu-lnt.blogspot.com
   - name: 搬运
     url: https://terminus2021.github.io/overwall 
+  - name: 备份
+    url: https://terminus2021.github.io/wayback
 # Pagination
 paginate: 20
 
