@@ -34,6 +34,12 @@ navigation:
     url: /link.html
   - name: 起居注
     url: /diary.html
+  - name: 微小贡献
+    url: /projects.html
+  - name: Blogspot
+    url: https://qiu-lnt.blogspot.com
+  - name: 搬运
+    url: https://terminus2021.github.io/overwall 
 # Pagination
 paginate: 20
 
