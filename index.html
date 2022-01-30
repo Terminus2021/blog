@@ -12,7 +12,7 @@ layout: default
 
   <!-- Html Elements for Search -->
   <div id="search-container">
-  <input type="text" id="search-input" placeholder="search..."
+  <input type="text" id="search-input" placeholder="🔍在这里输入你要搜索的内容。闲得发慌，无所事事"
     style="margin: 0px 0px 20px 0px; height: 40px; width: 100%;">
   <ul id="results-container"></ul>
   </div>
@@ -103,14 +103,14 @@ layout: default
   {% if paginator.previous_page %}
     <span class="prev">
       <a href="{{ site.baseurl }}{{ paginator.previous_page_path }}" class="prev">
-        前一页
+        Last station
       </a>
     </span>
   {% endif %}
   {% if paginator.next_page %}
     <span class="next">
       <a href="{{ site.baseurl}}{{ paginator.next_page_path }}" class="next">
-        后一页
+        Next station
       </a>
     </span>
   {% endif %}
